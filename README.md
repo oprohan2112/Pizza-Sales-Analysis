@@ -5,6 +5,7 @@
 Tool used :- MySQL 
 
 DATASET :- https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
+
 This dataset contain detailed information about pizza orders, including specifics about the pizza variants, quantities, pricing, dates, times, and categorization details.
 
 QUESTIONS I WANT TO ANSWER FROM DATASET ARE : -
