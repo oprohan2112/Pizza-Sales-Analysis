@@ -5,7 +5,8 @@
 Tool used :- MySQL 
 
 DATASET :- https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
- QUESTIONS I WANT TO ANSWER FROM DATASET ARE : -
+
+QUESTIONS I WANT TO ANSWER FROM DATASET ARE : -
  
 -- 1) Total Revenue 
 
@@ -14,6 +15,8 @@ DATASET :- https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
 -- 3) Total Pizzas Sold
 
 -- 4) Total Orders
+
+-- 5) Average Pizzas Per Order 
 
 -- 6) % of Sales by Pizza Category
 
